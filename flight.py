@@ -10,7 +10,7 @@ else:
   source="hubli"
   destination="bengalore"
 print("SUMMERY")
-print("flight number:",sys.argv[1])
-print("passenger name:",sys.argv[2])
-print("source:",sys.argv[3])
-print("destination:",sys.argv[4])
+print("flight number:",flight_no)
+print("passenger name:",passenger_name)
+print("source:",source)
+print("destination:",destination)
