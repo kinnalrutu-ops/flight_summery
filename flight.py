@@ -1,5 +1,5 @@
 import sys
-if sys.argv==4:
+if sys.argv==5:
   flight_no=sys.argv[1]
   passenger_name=sys.argv[2]
   source=sys.argv[3]
